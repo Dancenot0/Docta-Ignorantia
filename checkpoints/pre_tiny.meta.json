@@ -1,0 +1,15 @@
+{
+  "modo": "pre",
+  "preset": "tiny",
+  "epocas": 5,
+  "lr": 0.0003,
+  "ctx": 256,
+  "vocab": 3008,
+  "mejor_val": 3.305967190686394,
+  "fecha": "2026-10-29",
+  "conocimiento": "1.0.0",
+  "huella_conocimiento": "1c69acd6ed7ae959",
+  "hechos": 53,
+  "reanudado_de": null,
+  "conocimiento_anterior": null
+}
