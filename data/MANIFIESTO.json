@@ -1,0 +1,48 @@
+{
+  "version": "1.1.2",
+  "fecha": "2026-10-30",
+  "huella": "04a8dde6f5276c61",
+  "hechos": 53,
+  "hechos_con_referencia": 0,
+  "por_tema": {
+    "geografia": 48,
+    "meta": 5
+  },
+  "vocabulario": 3008,
+  "archivos": {
+    "conocimiento/geografia_capitales.jsonl": {
+      "bytes": 12385,
+      "sha256": "6f93df9b32779923"
+    },
+    "conocimiento/geografia_continentes.jsonl": {
+      "bytes": 5211,
+      "sha256": "831b033f3bbbb5ba"
+    },
+    "conocimiento/geografia_fisica.jsonl": {
+      "bytes": 7059,
+      "sha256": "1c3393590d760924"
+    },
+    "conocimiento/geografia_hispanohablantes.jsonl": {
+      "bytes": 4702,
+      "sha256": "ffc83e6360913015"
+    },
+    "conocimiento/meta_limites.jsonl": {
+      "bytes": 4045,
+      "sha256": "d070ded9754d5475"
+    },
+    "corpus.txt": {
+      "bytes": 21481,
+      "sha256": "afd28e0caa1217e9"
+    },
+    "sft.jsonl": {
+      "bytes": 148526,
+      "sha256": "659da4fff784545f"
+    },
+    "tokenizer.json": {
+      "bytes": 85243,
+      "sha256": "4f4aa632f6d71107"
+    }
+  },
+  "version_anterior": "1.1.2",
+  "huella_anterior": "04a8dde6f5276c61"
+}
